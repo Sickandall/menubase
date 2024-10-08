@@ -7,11 +7,12 @@
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-10-08 131142](https://github.com/user-attachments/assets/f889ae5b-50b0-4aad-aeea-6334a22b4c27)
+
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-10-08 131754](https://github.com/user-attachments/assets/b8c5fd82-1e52-4aa5-a104-3e02de7b5465)
 
 
 ## Integrations
@@ -32,5 +33,3 @@ Built automated tools for bulk email/SMS sending, web scraping, text-to-audio co
 Deployed Python programs and full GUI apps inside Docker containers. Achieved Docker-in-Docker (DinD) functionality for improved scalability and flexibility!
 
 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
