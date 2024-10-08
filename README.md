@@ -1,4 +1,4 @@
-#Develop Your Own Cloud System Service
+#Develop Your Own Cloud System Service Potfolio
 
 :- I’ve built a comprehensive cloud system using HTML, CSS, JavaScript, and Python that integrates powerful automation and cloud capabilities. Users can perform Linux and Python automation tasks such as sending messages, making calls, sending bulk emails, and converting text to speech. It also includes web scraping for seamless data retrieval. Through AWS, you can launch and connect to EC2 instances directly from the service, while leveraging Linux-based automation to send messages and make calls from the cloud. This all-in-one solution offers an intuitive, flexible cloud service with advanced automation features
 ## Tech Stack
